@@ -1,1 +1,3 @@
-print("Hello Git!")
+hellow <- function(){
+   print("Hello Git!")
+}
